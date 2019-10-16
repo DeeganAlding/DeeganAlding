@@ -1,0 +1,38 @@
+[
+    {
+        "image": "./assets/img/c200.jpg",
+        "id": 1,
+        "name": "Fujicolor C200",
+        "type": "Color Negative",
+        "exposure": "36",
+        "price": "7"
+    },
+
+    {
+        "image": "./assets/img/p400.jpg",
+        "id": 2,
+        "name": "Kodak Portra 400",
+        "type": "Color Negative",
+        "exposure": "36",
+        "price": "20"
+    },
+
+    {
+        "image": "./assets/img/g200.jpg",
+        "id": 3,
+        "name": "Kodak Gold 200",
+        "type": "Color Negative",
+        "exposure": "24",
+        "price": "5"
+    },
+
+    {
+        "image": "./assets/img/f400.jpg",
+        "id": 4,
+        "name": "Fujicolor Superia X-TRA 400",
+        "type": "Color Negative",
+        "exposure": "24",
+        "price": "5"
+    }
+
+]

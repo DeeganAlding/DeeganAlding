@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <title>Home</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Deegan's Film</h1>
+        <h2>Home</h2>
+    </header>
+
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li>Products
+                    <ul class="sub-nav">
+                        <li><a href="camera.html">Camera</a></li>
+                        <li><a href="film.html">Film</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="row">
+
+        <aside>
+            <form id="formcomment">
+                <fieldset>
+                    <legend>What would you like to study here?</legend>
+                    <textarea name="comment" id="comment-input" cols="50" rows="10"></textarea>
+                    <br />
+                    <input id="comment-data" type="button" value="Post">
+                    <p id="comment-output"></p>
+                </fieldset>
+            </form>
+
+            <form id="formcomment">
+                <fieldset>
+                    <form>
+                        <input type="text" id="comment-input">
+                        <button id="todolistButton" type="button">Add</button>
+                    </form>
+
+                    <ul id="todoList"></ul>
+                </fieldset>
+            </form>
+        </aside>
+
+    
+
+        <section>
+        <div id="items"></div>
+        </section>
+   
+
+
+
+
+
+    <script src="./assets/js/main.js"></script>
+
+</body>
+
+</html>
