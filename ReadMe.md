@@ -2,5 +2,3 @@
 
 ![](https://komarev.com/ghpvc/?username=deeganaldinge&color=brightgreen)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeganalding&show_icons=true&theme=radical)
-
